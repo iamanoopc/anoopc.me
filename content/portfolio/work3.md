@@ -7,3 +7,9 @@ draft = false
 weight = 2
 +++
 <a href="http://calculator-app.surge.sh/" target="_blank">View Project</a>
+<div class="col-lg-7">
+<img class ="img-responsive" src="../../img/portfolio/calculator-app.jpg" alt="" />
+</div>
+<div class="col-lg-5">
+<p>This is a Calculator app created for FreeCodeCamp</p>
+</div>

@@ -9,3 +9,9 @@ weight = 11
 
 
 <a href="http://dashboard-html-twenty20.surge.sh/" target="_blank">View Project</a>
+<div class="col-lg-7">
+<img class ="img-responsive" src="../../img/portfolio/twenty20.jpg" alt="" />
+</div>
+<div class="col-lg-5">
+<p>This is the HTML mockup of dashboard created for Twenty20 App</p>
+</div>
