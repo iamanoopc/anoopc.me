@@ -1,5 +1,5 @@
 baseurl = "/"
-title = "Creative portfolio"
+title = "ANOOP CHANDRAN"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
@@ -11,11 +11,11 @@ googleAnalytics = ""
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
   style = "default"
-  description = "Describe your website"
-  copyright = "&copy;2016 Your name or company"
+  description = "Portfolio Website"
+  copyright = "&copy;2016 anoopc.me"
   sidebarAbout = [
-    "I am a creative illustrator and graphic designer with more than 10 years of experience.",
-    "Originally from Toronto, currently based in London."
+    "I am a Frontend Developer and graphic designer with more than 5 years of experience.",
+    "Originally from India, currently based in Hong Kong."
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
@@ -45,11 +45,10 @@ googleAnalytics = ""
   url = "contact/"
 
   [params.social]
-  facebook      = "full page or profile url in facebook"
-  googleplus    = "full profile url in googleplus"
-  email         = "email@example.com"
-  twitter       = "full profile url in twitter"
-  linkedin      = "full profile url in linkedin"
-  stackoverflow = "full profile url in stackoverflow"
-  instagram     = "full profile url in instagram"
-  github        = "full profile url in github"
+  facebook      = "https://www.facebook.com/anoop.chandran.hk"
+  googleplus    = "https://plus.google.com/u/0/107267773390951989950"
+  email         = "mailto.anoopc@gmail.com"
+  twitter       = "https://twitter.com/iamanoopc"
+  linkedin      = "https://www.linkedin.com/in/anoop-chandran-18290a91/"
+  stackoverflow = "https://stackoverflow.com/users/4531869/anoop-chandran"
+  github        = "https://github.com/iamanoopc"
