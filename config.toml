@@ -12,7 +12,7 @@ googleAnalytics = ""
   # Use custom.css for your custom styling
   style = "default"
   description = "Portfolio Website"
-  copyright = "&copy;2016 anoopc.me"
+  copyright = "&copy;2016 anoopc.netlify.com"
   sidebarAbout = [
     "I am a Frontend Developer and graphic designer with more than 5 years of experience.",
     "Originally from India, currently based in Hong Kong."
