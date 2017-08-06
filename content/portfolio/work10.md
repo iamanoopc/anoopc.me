@@ -13,5 +13,10 @@ weight = 10
 <img class ="img-responsive" src="../../img/portfolio/marketing-newsletter.jpg" alt="" />
 </div>
 <div class="col-lg-5">
-<p>This is a marketing newsletter created for Circus Social Pvt. Ltd.</p>
+
+<h5>Marketing Newsletter created for Circus Social Pvt. Ltd.</h5>
+<p>This is just an email newsletter made while working with CircusSocial Pvt. Ltd.<p/>
+
+<p><i>Designed by Toshi Briones. You can find her <a href="https://www.linkedin.com/in/toshibriones/" target="_blank">here</a></i>.
+</p>
 </div>

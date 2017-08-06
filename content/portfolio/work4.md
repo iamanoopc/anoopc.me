@@ -11,5 +11,7 @@ weight = 4
 <img class ="img-responsive" src="../../img/portfolio/simon-game-app.jpg" alt="" />
 </div>
 <div class="col-lg-5">
-<p>This is a Simon Game app created for FreeCodeCamp</p>
+<h5>Simon Game app created for FreeCodeCamp</h5>
+<p>This is a very simple simon game built using javascript, html and css</p>
+<p>I've used WebAudio API to generate sound for simon patterns</p>
 </div>

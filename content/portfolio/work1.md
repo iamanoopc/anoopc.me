@@ -13,5 +13,10 @@ weight = 0
 <img class ="img-responsive" src="../../img/portfolio/pfizer.jpg" alt="" />
 </div>
 <div class="col-lg-5">
-<p>This is a quiz project that was created for Pfizer</p>
+<h5>This is a quiz project created for Pfizer.</h5>
+<p><i>I got a chance to work at this project when i was working with CircusSocial Pvt. Ltd.</i></p>
+<p>I did mostly the changes to html template and styling of this project.</p>
+<mark>This is not the final production ready code. This is just the initial rough mockup</mark>
+<p><i>Designed by Toshi Briones. You can find her <a href="https://www.linkedin.com/in/toshibriones/" target="_blank">here</a>.
+</i></p>
 </div>

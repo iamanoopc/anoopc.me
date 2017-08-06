@@ -1,16 +1,37 @@
 <!DOCTYPE html>
 <html lang="{{ .Site.LanguageCode }}">
+
 <head>{{ partial "head.html" . }}</head>
+
 <body>
-  <div id="all">
-      <div class="container-fluid">
-          <div class="row row-offcanvas row-offcanvas-left">
-              {{ partial "sidebar.html" . }}
-              {{ block "main" . }}
-              {{ end }}
-          </div>
-      </div>
-  </div>
-  {{ partial "scripts.html" . }}
+    <div id="all">
+        <div class="container-fluid">
+            <div class="row row-offcanvas row-offcanvas-left">
+                {{ partial "sidebar.html" . }} {{ block "main" . }} {{ end }}
+            </div>
+        </div>
+    </div>
+    <div class="modal fade certificate-modal" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                    <h4 class="modal-title" id="myModalLabel"></h4>
+                </div>
+                <div class="modal-body">
+                    <img class="img-responsive" src="img/freecodecamp.jpg" alt="FreeCodeCamp Frontend Developer Certificate" /p>
+                </div>
+                <div class="modal-footer">
+
+                </div>
+
+            </div>
+            <!-- /.modal-content -->
+        </div>
+        <!-- /.modal-dialog -->
+    </div>
+    <!-- /.modal -->
+    {{ partial "scripts.html" . }}
 </body>
+
 </html>

@@ -14,4 +14,6 @@ weight = 1
 </div>
 <div class="col-lg-5">
 <p>This is a Pomodoro Timer App created for FreeCodeCamp</p>
+<p>I really enjoyed making this one. I used <a href="https://momentjs.com/" target="_blank" >moment.js</a> for the time manipulations</p>
+<p>This needs a style change. I'm working on a better and stable one. I'll update soon. :)</p>
 </div>

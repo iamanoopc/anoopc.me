@@ -1,1 +1,10 @@
-/* your styles go here */
+body, .sidebar-heading, h1, h2, h3 , h4, h5{
+  font-family: 'Archivo', sans-serif;
+
+}
+.sidebar-heading{
+      font-size: 1.62em;
+}
+.sidebar-p{
+  font-size: 1.1em;
+}

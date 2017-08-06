@@ -11,5 +11,7 @@ weight = 2
 <img class ="img-responsive" src="../../img/portfolio/calculator-app.jpg" alt="" />
 </div>
 <div class="col-lg-5">
-<p>This is a Calculator app created for FreeCodeCamp</p>
+<h5>This is a Calculator app created for FreeCodeCamp</h5>
+<p>I apologize for the silly name, I'm still trying to find a catchy one for it.</p>
+<p>I used React for this, lot of improvement necessary</p>
 </div>

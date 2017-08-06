@@ -11,5 +11,7 @@ weight = 6
 <img class ="img-responsive" src="../../img/portfolio/twitchtv-streamers-app.jpg" alt="" />
 </div>
 <div class="col-lg-5">
-<p>This is a Twitch TV streamers app created for FreeCodeCamp</p>
+<h5>Twitch TV streamers app created for FreeCodeCamp</h5>
+<p>This is a very simple application built using jquery, html, css and Twitch-TV API</p>
+<p>Lot of scope for improvement, for now atleast it is complete</p>
 </div>
